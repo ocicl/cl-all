@@ -1,0 +1,9 @@
+* cl-all
+
+A script to evaluate lisp expressions in multiple implementations
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/Shinmera/cl-all.git |
+| commit  | d9b5131                                    |
+| systems | cl-all                                     |
+|---------+--------------------------------------------|
