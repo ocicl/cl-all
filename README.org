@@ -2,8 +2,8 @@
 
 A script to evaluate lisp expressions in multiple implementations
 
-|---------+--------------------------------------------|
+|---------+----------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/cl-all.git |
-| commit  | 21e7b5f                                    |
-| systems | cl-all                                     |
-|---------+--------------------------------------------|
+| commit  | b3b7640                                      |
+| systems | cl-all                                       |
+|---------+----------------------------------------------|
