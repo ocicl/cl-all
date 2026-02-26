@@ -4,6 +4,6 @@ A script to evaluate lisp expressions in multiple implementations
 
 |---------+----------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/cl-all.git |
-| commit  | b3b7640                                      |
+| commit  | 71bfacf                                      |
 | systems | cl-all                                       |
 |---------+----------------------------------------------|
